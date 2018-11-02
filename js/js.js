@@ -1,6 +1,6 @@
 $(function(){
     function shuaxin(){
-        var msg=['qingfengfoxm',' tang6142016'];
+        var msg=[' tang6142016','qingfengfoxm'];
         var arrimg = ['11.png','12.png']
         var index = Math.floor((Math.random()*msg.length)); 
         $('.shuaxin').text(msg[index]);
